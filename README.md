@@ -77,8 +77,8 @@ I am a **Full Stack Developer** based in Giza/Cairo, Egypt, specializing in buil
 ### 📊 GitHub Activity & Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadyawny&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Hady's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=hadyawny&layout=compact&theme=visual_studio_dark&langs_count=6" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hadyawny&show_icons=true&theme=dark&count_private=true" alt="Hady's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadyawny&layout=compact&theme=dark&langs_count=6" alt="Top Languages" height="180px"/>
 </p>
 
 ---
